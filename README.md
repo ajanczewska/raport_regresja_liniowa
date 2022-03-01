@@ -1,4 +1,4 @@
-# Dobranie model regresji liniowej 📈
+# Dobranie modelu regresji liniowej 📈
 Sprawozdanie na temat dobrania modelu regresji liniowej do danych dotyczących rozmiarów oposów górskich.
 # O projekcie
 Projekt związany jest z dobraniem modelu regresji liniowej oraz sprawdzeniu jego dopasowania do danych rzeczywistych dotyczących oposów górskich. Na sprawozdanie z projektu składa się część teoretyczna oraz obliczenia i wykresy wykonane w języku Python.
