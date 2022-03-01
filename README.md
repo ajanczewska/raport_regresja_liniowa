@@ -5,3 +5,4 @@ Projekt związany jest z dobraniem modelu regresji liniowej oraz sprawdzeniu jeg
 # Sprawozdanie
 Wszystkie szczegóły dotyczące danych, opisy, wykresy, wyniki oraz wnioski przedstawione są w [raporcie]("https://ajanczewska.github.io/raport_regresja_liniowa/raport_regresja_liniowa.pdf").
 
+test
